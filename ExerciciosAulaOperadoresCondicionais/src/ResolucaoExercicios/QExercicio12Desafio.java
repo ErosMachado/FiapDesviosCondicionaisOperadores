@@ -1,10 +1,10 @@
 package ResolucaoExercicios;
-import java.util.Scanner;
 
-public class Exercicio8 {
+public class QExercicio12Desafio {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 
-		 
 	}
+
 }
