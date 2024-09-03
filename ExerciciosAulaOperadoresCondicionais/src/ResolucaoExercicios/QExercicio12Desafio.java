@@ -1,4 +1,6 @@
 package ResolucaoExercicios;
+import java.util.Scanner;
+
 
 public class QExercicio12Desafio {
 
