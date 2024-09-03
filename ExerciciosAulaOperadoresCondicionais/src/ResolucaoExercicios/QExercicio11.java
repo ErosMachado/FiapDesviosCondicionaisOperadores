@@ -12,7 +12,7 @@ import java.util.Scanner;
         System.out.print("Informe o peso da carga em toneladas: ");
         double pesoToneladas = sc.nextDouble();
 
-        System.out.print("Informe o cÃ³digo da carga (10 a 40): ");
+        System.out.print("Informe o código da carga (10 a 40): ");
         int codigoCarga = sc.nextInt();
 
         double pesoQuilos = pesoToneladas * 1000;
